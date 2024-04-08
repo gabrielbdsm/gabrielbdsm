@@ -34,5 +34,5 @@ Estas são algumas das principais tecnologias que uso ou trabalhei no passado:
 
 ## 🌐Redes sociais
 
-<a href="www.linkedin.com/in/gabrielmartiliano"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:gabrielmartiliano2@gmail.com">![image](https://github.com/gabrielbdsm/gabrielbdsm/assets/68433874/129e25f4-34c0-48d1-89fc-e898007080c8)</a>
+<a href="https://www.linkedin.com/in/gabrielmartiliano"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:gabrielmartiliano2@gmail.com">![image](https://github.com/gabrielbdsm/gabrielbdsm/assets/68433874/129e25f4-34c0-48d1-89fc-e898007080c8)</a>
 |--|--|
